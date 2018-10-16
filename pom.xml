@@ -42,13 +42,13 @@
 	<repository>
 		<id>deployment</id>
 		<name>Internal Releases</name>
-		<url>http://35.200.205.13:8081/nexus/content/repositories/Helloworld//</url>
+		<url>http://http://35.200.163.105:8081/nexus/content/repositories/Helloworld/</url>
 	</repository>
  
 	<snapshotRepository>
 		<id>deployment</id>
 		<name>Internal Releases</name>
-		<url>http://35.200.205.13:8081/nexus/content/repositories/HelloworlsdArchive/</url>
+		<url>http://http://35.200.163.105:8081/nexus/content/repositories/HelloworlsdArchive/</url>
 	</snapshotRepository>
 
 </distributionManagement>
